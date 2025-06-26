@@ -1,7 +1,6 @@
 CREATE DATABASE EcommerceDB2;
 USE EcommerceDB2;   
-
-DROP TABLE IF EXISTS Payments;                                                                                                                                                                                                    DROP TABLE IF EXISTS Payments;
+                                                                                                                                                                                                    DROP TABLE IF EXISTS Payments;
 DROP TABLE IF EXISTS Order_Items;
 DROP TABLE IF EXISTS Orders;
 DROP TABLE IF EXISTS Products;
